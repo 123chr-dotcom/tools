@@ -4,11 +4,6 @@
 
 这个仓库提供一些小工具，并且不会对其进行过多的更新，release中只会放当前版本添加的工具的exe
 
-<h3>已经获得了DaYe的联动授权(还没有😭，申请中……)</h3>
-
-![e23954ed38ea5d35cc9bc138495902f0](https://github.com/user-attachments/assets/77976276-407a-4db4-a6e9-e7b944ccac61)![d86b3da6c97d7d3094da371ddb94fdc1](https://github.com/user-attachments/assets/42868a14-1d95-4c19-a0d0-554b21bf51f3)
-
-
 > [!tip]
 >
 > 你可以根据MIT协议来上传到Gitcode、Gitea等平台
@@ -37,17 +32,3 @@
 <h1>推广</h1>
 
 这个程序会上传到qq群中，如果你想关注更多的开源仓库和内测exe，你可以进:1043867176 这个群聊
-
-<h3>假设DaYe的授权，他可能会在WindowsCleaner这个项目中使用到这个端口终结工具等工具，你可以去DaYe的群聊来关注优质开源项目和体验内测版</h3>
-<h3>他有两个qq群聊</h3>
-
-WindowsCleaner:
-
-![logo png](https://github.com/user-attachments/assets/185c12fa-a559-4c37-9b2d-afe7cdcbe23a)
-
-# qq1群：
-> 868824052
->
-
-# qq2群：
-> 1030016834
